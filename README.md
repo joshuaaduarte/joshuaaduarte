@@ -3,6 +3,8 @@
 Hi, I'm [Joshua](https://joshuaduarte.com), a passionate developer interested in A.I., optimization algorithms, security, & both iOS and full-stack Development.
 - 🏫 I'm a graduate of Texas A&M University.
      - 📜 B.S. in Mechanical Engineering
+- 🏫 I'm will be attending U.C. Berkeley.
+     - 📜 M.E. in Mechanical Engineering with a conentration in Product Design
 - 🔭 I’m currently working on [Gambit - Automated Chess Set](https://github.com/joshuaaduarte/Gambit)
 - 🌱 I’m currently learning Machine Learning & Natural Language Processing
 - 👯 I’m willing to work on free-lance projects & am always interested in working on more open source projects.
