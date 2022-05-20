@@ -24,7 +24,7 @@ Hi, I'm [Josh](https://joshuaduarte.com), a passionate developer interested in A
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuaaduarte&layout=compact&langs_count=8&count_private=true&theme=radical" />
   </a>
   <a href="https://github.com/joshuaaduarte/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=joshuaaduarte&show_icons=true&count_private=true&include_all_commits=true&theme=radical" alt="Luis's github stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=joshuaaduarte&show_icons=true&count_private=true&include_all_commits=true&theme=radical" alt="Josh's github stats" />
   </a>
 </p>
 
