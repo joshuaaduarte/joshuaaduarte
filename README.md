@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-Hi, I'm [Joshua](https://joshuaduarte.com), a passionate developer interested in A.I., optimization algorithms, security, & both iOS and full-stack Development.
+Hi, I'm [Josh](https://joshuaduarte.com), a passionate developer interested in A.I., optimization algorithms, design, & both iOS and full-stack Development.
 - 🏫 I'm a graduate of Texas A&M University.
      - 📜 B.S. in Mechanical Engineering
 - 🏫 I'm will be attending U.C. Berkeley.
