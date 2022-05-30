@@ -1,13 +1,13 @@
 ### Hey there! 👋
 
-Hi, I'm [Josh](https://joshuaduarte.com), a passionate developer interested in A.I., optimization algorithms, design, & both iOS and full-stack Development.
+Hi, I'm [Josh](https://joshuaduarte.com), a passionate programmer interested in A.I, virtual reality, and application development.
 - 🏫 I'm a graduate of Texas A&M University. Class of '22
      - 📜 B.S. in Mechanical Engineering
 - 🏫 I will be attending U.C. Berkeley. Class of '23
      - 📜 M.E. in Mechanical Engineering with a conentration in Product Design
+- 👯 I have a blog [here](https://www.joshuaduarte.com/blog.html) that is covering my day to day activities for the next 60 days 
 - 🔭 I’m currently working on [Gambit - Automated Chess Set](https://github.com/joshuaaduarte/Gambit)
-- 🌱 I’m currently learning Machine Learning & Natural Language Processing
-- 👯 I’m willing to work on free-lance projects & am always interested in working on more open source projects.
+- 🌱 I’m currently learning Machine Learning, data structures & algorithms, and C.  
 - 💬 Ask me about anything [here](https://github.com/joshuaaduarte/joshuaaduarte/issues) or via email: jad6442@tamu.edu
 
 <p align="center">
