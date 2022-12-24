@@ -1,14 +1,14 @@
 ### Hey there! 👋
 
-Hi, I'm [Josh](https://joshuaduarte.com), a passionate programmer interested in A.I, virtual reality, and application development.
+Hi, I'm [Josh](https://joshuaduarte.com), a passionate Mechanical Engineering programmer interested in machine learning, computer vision, and application development.
 - 🏫 I'm a graduate of Texas A&M University. Class of '22
      - 📜 B.S. in Mechanical Engineering
-- 🏫 I will be attending U.C. Berkeley. Class of '23
+- 🏫 I am currently attending U.C. Berkeley. Class of '23
      - 📜 M.E. in Mechanical Engineering with a conentration in Product Design
-- 👯 I have a blog [here](https://www.joshuaduarte.com/blog.html) that is covering my day to day activities for the next 60 days 
-- 🔭 I’m currently working on [Gambit - Automated Chess Set](https://github.com/joshuaaduarte/Gambit) and [Sign Language Learning](https://github.com/joshuaaduarte/gestureRecognition)
-- 🌱 I’m currently learning Machine Learning, data structures & algorithms, and C.  
-- 💬 Ask me about anything [here](https://github.com/joshuaaduarte/joshuaaduarte/issues) or via email: jad6442@tamu.edu
+- 👯 I have a blog [here](https://www.joshuaduarte.com/blog.html) that covered my day to day activities during the summer 
+- 🔭 I’m currently working on [Gambit - Automated Chess Set](https://github.com/joshuaaduarte/Gambit) and [Butlr - Machine Learning Planner](https://github.com/joshuaaduarte/gestureRecognition)
+- 🌱 I’m currently learning Machine Learning, data structures & algorithms, react, and C.  
+- 💬 Ask me about anything [here](https://github.com/joshuaaduarte/joshuaaduarte/issues) or via email: joshua_duarte@berkeley.edu
 
 <p align="center">
   <a href="https://www.linkedin.com/in/joshua-duarte/">
