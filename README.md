@@ -6,7 +6,7 @@ Hi, I'm [Josh](https://joshuaduarte.com), a passionate Mechanical Engineering pr
 - 🏫 I am currently attending U.C. Berkeley. Class of '23
      - 📜 M.E. in Mechanical Engineering with a conentration in Product Design
 - 👯 I have a blog [here](https://www.joshuaduarte.com/blog.html) that covered my day to day activities during the summer 
-- 🔭 I’m currently working on [Gambit - Automated Chess Set](https://github.com/joshuaaduarte/Gambit) and [Butlr - Machine Learning Planner](https://github.com/joshuaaduarte/Butlr-MachingLearningPlanner)
+- 🔭 I’m currently working on [Gambit - Automated Chess Set](https://github.com/joshuaaduarte/Gambit) and [Butlr - Machine Learning Planner](https://github.com/joshuaaduarte/BUTLR)
 - 🌱 I’m currently learning Machine Learning, data structures & algorithms, react, and C++.  
 - 💬 Ask me about anything [here](https://github.com/joshuaaduarte/joshuaaduarte/issues) or via email: joshua_duarte@berkeley.edu
 
