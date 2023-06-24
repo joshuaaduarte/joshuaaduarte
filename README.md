@@ -3,9 +3,9 @@
 Hi, I'm [Josh](https://joshuaduarte.com), a passionate Mechanical Engineering programmer interested in machine learning, computer vision, and application development.
 - 🏫 I'm a graduate of Texas A&M University. Class of '22
      - 📜 B.S. in Mechanical Engineering
-- 🏫 I am currently attending U.C. Berkeley. Class of '23
+- 🏫 I recently graduated from U.C. Berkeley. Class of '23
      - 📜 M.E. in Mechanical Engineering with a conentration in Product Design
-- 👯 I have a blog [here](https://www.joshuaduarte.com/blog.html) that covered my day to day activities during the summer 
+- 👯 I have a blog [here](https://www.joshuaduarte.com/blog.html) that covered my day to day activities during the summer of '22
 - 🔭 I’m currently working on [Gambit - Automated Chess Set](https://github.com/joshuaaduarte/Gambit) and [Butlr - Machine Learning Planner](https://github.com/joshuaaduarte/BUTLR)
 - 🌱 I’m currently learning Machine Learning, data structures & algorithms, react, and C++.  
 - 💬 Ask me about anything [here](https://github.com/joshuaaduarte/joshuaaduarte/issues) or via email: joshua_duarte@berkeley.edu
