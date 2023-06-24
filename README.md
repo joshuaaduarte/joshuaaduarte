@@ -4,7 +4,7 @@ Hi, I'm [Josh](https://joshuaduarte.com), a passionate Mechanical Engineering pr
 - 🏫 I'm a graduate of Texas A&M University. Class of '22
      - 📜 B.S. in Mechanical Engineering
 - 🏫 I recently graduated from U.C. Berkeley. Class of '23
-     - 📜 M.E. in Mechanical Engineering with a conentration in Product Design
+     - 📜 M.Eng. in Mechanical Engineering with a conentration in Product Design
 - 👯 I have a blog [here](https://www.joshuaduarte.com/blog.html) that covered my day to day activities during the summer of '22
 - 🔭 I’m currently working on [Gambit - Automated Chess Set](https://github.com/joshuaaduarte/Gambit) and [Butlr - Machine Learning Planner](https://github.com/joshuaaduarte/BUTLR)
 - 🌱 I’m currently learning Machine Learning, data structures & algorithms, react, and C++.  
